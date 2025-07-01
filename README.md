@@ -1,2 +1,2 @@
-# Microservice
-MicroService Java SB Last Try
+# 2025-01-Microservices-Java
+Projeto de Microservices em Java utilizando Spring Boot
